@@ -34,18 +34,3 @@ The JavaScript file handles the core game logic. It randomly generates a secret 
 
 Start by inputting a guess between 1 and 20. Click "Check!" to see if your guess is correct. If your guess is too high or too low, your score will decrease by 1, and you'll be prompted to guess again. If your guess is correct, you'll see the secret number, and your score will become the new highscore if it's the highest so far. Click "Again!" to restart the game and try to beat your highscore!
 
-## Screenshots
-
-It's always great to have a sneak peek of the game before you dive in. Here are a couple of screenshots of the game:
-
-![Start guessing](images/Start guessing.png)
-
-![Too low](images/Too low.png)
-
-![Too high](images/Too high.png)
-
-![Correct Number](images/Correct Number.png)
-
-![No Number](images/No Number.png)
-
-I hope you enjoy playing Numerati: The Guessing Game! Happy guessing!
